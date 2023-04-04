@@ -25,7 +25,7 @@ export default function NavbarItems() {
       </li>
       <li>
         <Link
-          href="/"
+          href="/destinations"
           aria-label="Product pricing"
           title="Product pricing"
           className=" tracking-wide  transition-colors duration-200 hover:text-teal-accent-400"
