@@ -1,0 +1,65 @@
+{
+  "semienSteps": [
+    {
+      "place": "4 Days in Semien",
+      "images": "semien2.jpg",
+      "tours": [
+        {
+          "day": 1,
+          "title": "Gondar - Sankaber",
+          "description": "Transfer from Gondar to Sankabar camp. You can be dropped off two hours trek before the campsite to enjoy the views over the escarpment and you will spot large groups of the Gelada monkey, small antelopes... You Camp at Sankaber which is 3250m."
+        },
+        {
+          "day": 2,
+          "title": "Sankaber - Geech",
+          "description": "Trek from Sanakabar camp to Gich camp via Jinibar water falls (500m), which takes around 6 hours. Gich camp is at 3600m."
+        },
+        {
+          "day": 3,
+          "title": "Geech - Chenek",
+          "description": "Trek from Gich to Chennek via Imetgogo which is the the most Scenic part of the park. At Chennek there are again excellent views, and you should see more Gelada monkeys, Walia ibex and if you are lucky the Ethiopian wolf. Trekking time of around 9 hours. Chennek camp at 3620m"
+        },
+        {
+          "day": 4,
+          "title": "Chennek - Gondar",
+          "description": "Trek from Chennek camp to Mount Buwahit ( 4430m), which is the 2nd highest pick in the country and walk back to the camp. Then picked up and drive back to Gondar."
+        }
+      ]
+    },
+    {
+      "place": "Six days tour to Ras Dejen to the highest peak in Ethiopia",
+      "images": "semien3.jpg",
+      "tours": [
+        {
+          "day": 1,
+          "title": "Gondar - Geech",
+          "description": "Meet up at Gondar Airport/Hotel/ then drive to Sankaber camp. Trek from Sanakabar camp to Gich camp for 6-7hrs.On the way visit Jinbar waterfall/500m/ ,likely to spot large groups of the Gelada monkey. Overnight at Geech camp 3600m."
+        },
+        {
+          "day": 2,
+          "title": "Geech -Chennek",
+          "description": "Trek from Geech to Chennek (3620m) via Imet Gogo. At Imet Gogo you will see excellent views of the Simien escarpment. At Chennek there are again excellent views, and you will see more Gelada monkeys, Walia ibex and there is a chance to spot Ethiopian wolf. Trekking time of around 9 hours. Overnight at Chennek."
+        },
+        {
+          "day": 3,
+          "title": "Chennek - Ambiquo",
+          "description": "In the morning trek to Ambiquo which is the base camp of Ras Dejen via Buwahit pass (4200m). On the way you will see some village called chiroleba and cross Mesheha river(2800m). Trekking time around 8-9 hours. Over night Ambiquo"
+        },
+        {
+          "day": 4,
+          "title": " Ambiquo - Ras Dejen-Ambiquo",
+          "description": "Breakfast Early in the morning around 4:00 o�clock and set off after breakfast to the peak and will do back and forth will take about 10 hours.Overnight Ambiquo"
+        },
+        {
+          "day": 5,
+          "title": "  Ambiquo - Chiroleba",
+          "description": "In the morning walk back to Chiroleba for about 2-3 hrs where you picked up to drive back to Gondar. Driving time around 5 hrs. Over night Gondar."
+        }
+      ]
+    }
+  ],
+
+  "historicalIntrey": [
+    
+  ]
+}

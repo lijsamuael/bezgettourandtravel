@@ -1,0 +1,240 @@
+{
+  "popularTours": [
+    {
+      "title": "Omo Valley",
+      "description": "The Hamar occupy a mountainous region in the eastern part of the lower Omo Valley. Their name is also spelled Hamer. The Jumping the bull ceremony is the most spectacular rite of passage in Southern Ethiopia. This ceremony marks the initiation of young men in to adult hood. The main players are the initiates, those who are going to jump the bulls and the maz, those recently initiated who have already undergone this rite.",
+      "image": "omovally.jpg"
+    },
+    {
+      "title": "Simien Mountains",
+      "description": "Simien Mountains offer a uniquely wonderful sight: high peaks and deep gorges, valleys and rivers, golden barley field's as far as the eye can see. The highest mountain (4439 meters) is Ras Dejen, hut a lot of the peaks are above 4000 meters. Only a few roads on the Simien Mountains are reachable by car, but the entire area is crossed by tracks used by locals to travel from village to village or to lead their animals to pasture. This makes it the ideal place for trekking: you can walk through for days.",
+      "image": "semienmountain.jpg"
+    },
+    {
+      "title": "Danakil Depression",
+      "description": "One of the most important features of this region of Africa resulted from faulting and cracking on its eastern side. This has caused the Great Rift Valley, which extends from the Middle East to Mozambique, passing in a north-south direction right through Ethiopia. This shearing of the earth's surface occurred at the same time that the Arabian Peninsula, geologically a part of Africa, was sundered from the rest of the continent. Volcanic activity, which has continued until today, finds expression in volcanoes in Ethiopia's Danakil Depression, as well as in the hot springs in many parts of the country.",
+      "image": "dankildeperession.jpg"
+    },
+    {
+      "title": "Lalibela Rock Hewn Churches",
+      "description": "Located in the north east of Ethiopian, lalibela is another renowned historical destination. The site hosts the \"Eighth wonder of the world\", the Lalibela rock-hewn churches. UNESCO has recorded this site as one of the world wonders. It is also holy land for Ethiopia's orthodox Christians.",
+      "image": "lalibela.jpg"
+    },
+    {
+      "title": "Addis Ababa & Surrounding",
+      "description": "As a chartered city, Addis Ababa serves as the capital city of Ethiopia. It is where the African Union is headquartered and where its predecessor the Organization of African Unity (OAU) was based. It also hosts the headquarters of the United Nations Economic Commission for Africa (ECA), as well as various other continental and international organizations.",
+      "image": "addisababa.jpg"
+    },
+    {
+      "title": "National Parks",
+      "description": "Ethiopia national park and reserves: Ethiopia as a prime travel destination, recognised worldwide as both an exotic and ancient travel destination. The country that several national parks that hobors and led to the thriving of several wildlife species and birds that together form a unique attraction that many cannot avoid looking while on Ethiopia",
+      "image": "nationalparks.jpg"
+    }
+  ],
+
+  "leftGallery": [
+    {
+      "image": "addisababa.jpg",
+      "class": "w-1/2 p-1 md:p-2"
+    },
+    {
+      "image": "dankildeperession.jpg",
+      "class": "w-1/2 p-1 md:p-2"
+    },
+    {
+      "image": "lalibela.jpg",
+      "class": "w-full p-1 md:p-2"
+    },
+    {
+      "image": "nationalparks.jpg",
+      "class": "w-1/2 p-1 md:p-2"
+    },
+    {
+      "image": "omovally.jpg",
+      "class": "w-1/2 p-1 md:p-2"
+    },
+    {
+      "image": "semienmountain.jpg",
+      "class": "w-full p-1 md:p-2"
+    }
+  ],
+
+  "rightGallery": [
+    {
+      "image": "abay.jpg",
+      "class": "w-full p-1 md:p-2"
+    },
+    {
+      "image": "axum.jpg",
+      "class": "w-1/2 p-1 md:p-2"
+    },
+    {
+      "image": "ertale.jpg",
+      "class": "w-1/2 p-1 md:p-2"
+    },
+    {
+      "image": "sof.jpg",
+      "class": "w-full p-1 md:p-2"
+    },
+    {
+      "image": "tana.jpeg",
+      "class": "w-1/2 p-1 md:p-2"
+    },
+    {
+      "image": "fassil.jpg",
+      "class": "w-1/2 p-1 md:p-2"
+    }
+  ],
+
+  "semienSteps": [
+    {
+      "place": "4 Days in Semien",
+      "images": "semien2.jpg",
+      "tours": [
+        {
+          "day": 1,
+          "title": "Gondar - Sankaber",
+          "description": "Transfer from Gondar to Sankabar camp. You can be dropped off two hours trek before the campsite to enjoy the views over the escarpment and you will spot large groups of the Gelada monkey, small antelopes... You Camp at Sankaber which is 3250m."
+        },
+        {
+          "day": 2,
+          "title": "Sankaber - Geech",
+          "description": "Trek from Sanakabar camp to Gich camp via Jinibar water falls (500m), which takes around 6 hours. Gich camp is at 3600m."
+        },
+        {
+          "day": 3,
+          "title": "Geech - Chenek",
+          "description": "Trek from Gich to Chennek via Imetgogo which is the the most Scenic part of the park. At Chennek there are again excellent views, and you should see more Gelada monkeys, Walia ibex and if you are lucky the Ethiopian wolf. Trekking time of around 9 hours. Chennek camp at 3620m"
+        },
+        {
+          "day": 4,
+          "title": "Chennek - Gondar",
+          "description": "Trek from Chennek camp to Mount Buwahit ( 4430m), which is the 2nd highest pick in the country and walk back to the camp. Then picked up and drive back to Gondar."
+        }
+      ]
+    },
+    {
+      "place": "Six days tour to Ras Dejen to the highest peak in Ethiopia",
+      "images": "semien3.jpg",
+      "tours": [
+        {
+          "day": 1,
+          "title": "Gondar - Geech",
+          "description": "Meet up at Gondar Airport/Hotel/ then drive to Sankaber camp. Trek from Sanakabar camp to Gich camp for 6-7hrs.On the way visit Jinbar waterfall/500m/ ,likely to spot large groups of the Gelada monkey. Overnight at Geech camp 3600m."
+        },
+        {
+          "day": 2,
+          "title": "Geech -Chennek",
+          "description": "Trek from Geech to Chennek (3620m) via Imet Gogo. At Imet Gogo you will see excellent views of the Simien escarpment. At Chennek there are again excellent views, and you will see more Gelada monkeys, Walia ibex and there is a chance to spot Ethiopian wolf. Trekking time of around 9 hours. Overnight at Chennek."
+        },
+        {
+          "day": 3,
+          "title": "Chennek - Ambiquo",
+          "description": "In the morning trek to Ambiquo which is the base camp of Ras Dejen via Buwahit pass (4200m). On the way you will see some village called chiroleba and cross Mesheha river(2800m). Trekking time around 8-9 hours. Over night Ambiquo"
+        },
+        {
+          "day": 4,
+          "title": " Ambiquo - Ras Dejen-Ambiquo",
+          "description": "Breakfast Early in the morning around 4:00 o�clock and set off after breakfast to the peak and will do back and forth will take about 10 hours.Overnight Ambiquo"
+        },
+        {
+          "day": 5,
+          "title": "  Ambiquo - Chiroleba",
+          "description": "In the morning walk back to Chiroleba for about 2-3 hrs where you picked up to drive back to Gondar. Driving time around 5 hrs. Over night Gondar."
+        }
+      ]
+    },
+    {
+      "place": "11 days tours to Simien Mountains, Tigray rock hewn churches and Danakil Depression Eartale",
+      "images": "semien4.jpg",
+      "tours": [
+        {
+          "day": 1,
+          "title": "Addis - Gondar",
+          "description": "Fly from Mekelle to Gondar and Meet up at Gondar airport and drive to Sankabar camp. You can be dropped off two hours trek before the campsite to enjoy the views over the escarpment and you are likely to spot large groups of the Gelada monkey. Over night at Sankabar camp which is at 3250m."
+        },
+        {
+          "day": 2,
+          "title": "Sankaber - Geech",
+          "description": "Trek from Sanakabar camp to Gich camp via Jinibar falls, which takes around 6 hours. Over night at Geech camp 3600m."
+        },
+        {
+          "day": 3,
+          "title": "Geech - Chennek",
+          "description": "Trek from Gich to Chennek (3620m) via Imet Gogo. At Imet Gogo there are excellent views of the Simien escarpment and on the Gich plateau you will see the endemic plant Giant Lobelia in abundance . At Chennek there are again excellent views, and you should see more Gelada monkeys, Walia ibex and if you are lucky the Ethiopian wolf. Trekking time of around 9 hours."
+        },
+        {
+          "day": 4,
+          "title": "Chennek - Buwahit - Debark",
+          "description": "In the morning walk to mount Buwahit which is the second highest pick in the country with 4430masl and back to the base camp to drive back to Debark. Over night stay at Debark."
+        },
+        {
+          "day": 5,
+          "title": "Debark - Axum",
+          "description": "After breakfast drive out to Axum through the lowland part of the park and drive the incredible road which built by Italian during the invention back to 1936 - 1941. About 7-8hrs drive. Over night Axum."
+        },
+        {
+          "day": 6,
+          "title": "Axum - Gehralta",
+          "description": "On this day we will drive to Gehralta on the way visit Yeha Temple the oldest historical place in Ethiopia with 2500 years old. And in the afternoon visit the rock hewn churches of Tigray called Abune Yemata one of the most beautiful rock hewn church around the area. Over night Hawzen"
+        },
+        {
+          "day": 7,
+          "title": "Gehralta - Mekelle",
+          "description": "In the morning you will visit some of the other rock hewn churches of Tigray on your way to Mekelle. Over night At Mekelle"
+        },
+        {
+          "day": 8,
+          "title": "Mekelle - Hamedella",
+          "description": "Drive from Mekelle to Dallol Depression/ Hamedela/ via Berhale. The Danakil Depression can be said to begin here. The desert has several points lying more than 100 meters (328 ft) below sea level. You pass through a small town of Berhale where the camel caravans stop before they proceed to the northern highlands. En route you see many long caravans going to the salt mines and others coming out of the Danakil with their salt loaded camels. Over night at Hamedela."
+        },
+        {
+          "day": 9,
+          "title": "Hamedela - Abaala",
+          "description": "Morning driving tour to Ragad (Asebo), the place where the salts are mined. Observe the breaking of the salt from the ground, cutting into rectangular pieces and loading on camels. You drive ahead to Dallol and visit the difference landscape formed by volcanic activity, Dallol + Lake Assal. Excursion to Dallol (116 meter below sea level, one of the lowest places in the world) colorful salts mining, visit Lake Assal, Drive back to Abaala, Overnight at Abaala."
+        },
+        {
+          "day": 10,
+          "title": "Abaala - Dodom",
+          "description": "In the morning start drive to Dodom at the base of Erta Ale. This may be one of the worst road in the world. The 80 km distance may take about 6 hrs passing through changing landscape of solidified lava, rock, sand and the occasional palm lined oasis. You pass several small hamlets scattered here and there in this desert land, After reaching Dodom. You will trek from Dodom to Erta Ale which takes about 2 hrs. Early dinner around 17:00 and trek up to Ertale.Camels transport all the camping materials and some food, sleeping materials, mattresses and water, to the rim of the volcano, where we spend the night watching the dramatic action of the boiling lava(Volcano). Erta Ale ranks one of the most alluring and physically challenging natural attractions anywhere in Ethiopia.Erta Ale contains the world s only permanent lava lake and you will spend an unforgettable night on the top of the mountain. As arriving you will walk around pits and craters."
+        },
+        {
+          "day": 11,
+          "title": "Eartale - Mekelle - Addis",
+          "description": "Early morning you will rise with the sun with time to walk around pits and craters again if you want see it again. You will leave around 7:00 to head back to Dodom for Breakfast and after some time to relax you will drive to mekelle after arrival you will be transferred to the air port to fly to Addis."
+        }
+      ]
+    },
+    {
+      "place": "Six days tour to Ras Dejen to the highest peak in Ethiopia",
+      "images": "semien6.jpg",
+      "tours": [
+        {
+          "day": 1,
+          "title": "Gondar - Geech",
+          "description": "."
+        },
+        {
+          "day": 2,
+          "title": "Geech -Chennek",
+          "description": ""
+        },
+        {
+          "day": 3,
+          "title": "Chennek - Ambiquo",
+          "description": ""
+        },
+        {
+          "day": 4,
+          "title": " Ambiquo - Ras Dejen-Ambiquo",
+          "description": ""
+        },
+        {
+          "day": 5,
+          "title": "  Ambiquo - Chiroleba",
+          "description": ""
+        }
+      ]
+    }
+  ]
+}
