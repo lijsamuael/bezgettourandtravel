@@ -291,37 +291,6 @@
           "description": "Early morning you will rise with the sun with time to walk around pits and craters again if you want see it again. You will leave around 7:00 to head back to Dodom for Breakfast and after some time to relax you will drive to mekelle after arrival you will be transferred to the air port to fly to Addis."
         }
       ]
-    },
-    {
-      "place": "Six days tour to Ras Dejen to the highest peak in Ethiopia",
-      "images": "semien6.jpg",
-      "tours": [
-        {
-          "day": 1,
-          "title": "Gondar - Geech",
-          "description": "."
-        },
-        {
-          "day": 2,
-          "title": "Geech -Chennek",
-          "description": ""
-        },
-        {
-          "day": 3,
-          "title": "Chennek - Ambiquo",
-          "description": ""
-        },
-        {
-          "day": 4,
-          "title": " Ambiquo - Ras Dejen-Ambiquo",
-          "description": ""
-        },
-        {
-          "day": 5,
-          "title": "  Ambiquo - Chiroleba",
-          "description": ""
-        }
-      ]
     }
   ],
   "historicalIntrey": [
@@ -740,6 +709,94 @@
           "description": "Bezget Tour & Travel can definitely customize your trip Whether you want to modify a tour package on our website or have an itinerary built from scratch, our local travel consultants at Bezget can create you ideal trip. In addition to the benefits of all Bezget booking handpicked hotels, transportation, excursion and more... Bezget offer a personalized experience. Let's know your decision where to visit, how long to spend and what type of accommodation suits you best."
         }
       ]
+    }
+  ],
+
+  "gallery": [
+    {
+      "id": 7,
+      "place": "axum",
+      "images": ["axum1.jpg", "axum2.jpeg", "axum3.jpeg", "axum4.jpeg"]
+    },
+    {
+      "id": 3,
+      "place": "bale",
+      "images": ["bale1.svg", "bale2.jpeg", "bale3.jpg", "bale4.jpg"]
+    },
+    {
+      "id": 4,
+      "place": "birds",
+      "images": ["bird1.jpeg", "bird2.jpg", "bird3.jpeg", "bird4.jpeg"]
+    },
+    {
+      "id": 14,
+      "place": "cycling",
+      "images": [
+        "cycling1.jpeg",
+        "cycling2.jpeg",
+        "cycling3.png",
+        "cycling4.jpeg"
+      ]
+    },
+    {
+      "id": 1,
+      "place": "dankil",
+      "images": ["dankil1.png", "dankil2.jpeg", "dankil3.jpg", "dankil4.jpeg"]
+    },
+    {
+      "id": 3,
+      "place": "dasenechi",
+      "images": [
+        "dasenechi1.jpeg",
+        "dasenechi2.jpeg",
+        "dasenechi3.jpeg",
+        "dasenechi4.jpeg"
+      ]
+    },
+    {
+      "id": 6,
+      "place": "fassil",
+      "images": ["fassil1.jpg", "fassil2.jpg", "fassil3.jpeg", "fassil4.jpg"]
+    },
+    {
+      "id": 9,
+      "place": "hammer",
+      "images": ["hammer1.jpeg", "hammer2.jpeg", "hammer3.jpg", "hammer4.jpg"]
+    },
+    {
+      "id": 8,
+      "place": "harar",
+      "images": ["hrar1.jpg", "hrar2.jpg", "hrar3.jpg", "hrar4.jpeg"]
+    },
+    {
+      "id": 11,
+      "place": "konso",
+      "images": ["konso1.jpg", "konso2.jpeg", "konso3.jpeg", "konso4.jpeg"]
+    },
+    {
+      "id": 5,
+      "place": "lalibela",
+      "images": [
+        "lalibela1.jpg",
+        "lalibela2.jpg",
+        "lalibela3.jpeg",
+        "lalibela4.jpg"
+      ]
+    },
+    {
+      "id": 12,
+      "place": "mursi",
+      "images": ["mursi1.jpeg", "mursi2.jpeg", "mursi3.jpeg", "mursi4.jpeg"]
+    },
+    {
+      "id": 2,
+      "place": "semien",
+      "images": ["semien5.jpg", "semien2.jpg", "semien3.jpg", "semien4.jpg"]
+    },
+    {
+      "id": 10,
+      "place": "surma",
+      "images": ["surma1.jpg", "surma2.jpeg", "surma3.jpeg", "surma4.jpg"]
     }
   ]
 }

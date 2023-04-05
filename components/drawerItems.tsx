@@ -35,7 +35,7 @@ export default function DrawerItems() {
       </li>
       <li>
         <Link
-          href="/"
+          href="/gallery"
           aria-label="About us"
           title="About us"
           className="tracking-wide  transition-colors duration-200 hover:text-primary-400"

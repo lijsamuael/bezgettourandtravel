@@ -3,11 +3,11 @@ import data from "../models/data.json";
 
 export default function LargeCard() {
   return (
-    <section className="container mx-auto max-w-[1200px] p-10 md:py-20  md:p-20 md:px-0 antialiased text-gray-100 px-[5%]">
-      <section className="grid lg:grid-cols-2 2xl:grid-cols-3 grid-cols-1 gap-x-10 gap-y-20 ">
+    <div className="container mx-auto max-w-[1200px] p-10 md:py-20  md:p-20 md:px-0 antialiased text-gray-100 px-[5%]">
+      <div className="grid lg:grid-cols-2 2xl:grid-cols-3 grid-cols-1 gap-x-10 gap-y-20 ">
         {data.destinations.map((item, index) => (
-          <Link href={`/destinationDetail/${item.id}`}>
-            <article
+          <Link href={`/destinations/${item.id}`} key={index}>
+            <div
               className="mx-auto max-w-sm shadow-xl bg-cover bg-center min-h-150 transform duration-500 hover:-translate-y-2 cursor-pointer group"
               style={{
                 ["background-image" as any]: `url(./images/${item.image})`,
@@ -22,10 +22,10 @@ export default function LargeCard() {
                   {item.description}
                 </p>
               </div>
-            </article>
+            </div>
           </Link>
         ))}
-      </section>
-    </section>
+      </div>
+    </div>
   );
 }
